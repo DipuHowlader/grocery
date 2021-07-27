@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('./assets/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('./assets/fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url('./assets/fonts/Alegreya_Sans/AlegreyaSans-Light.ttf');
+    font-weight: 300;
+}
+
+/* lato */
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./assets/fonts/Lato/Lato-Regular.ttf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./assets/fonts/Lato/Lato-Bold.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./assets/fonts/Lato/Lato-Light.ttf');
+    font-weight: 300;
+}

@@ -1,0 +1,16 @@
+.img-deal1 {
+    padding: 0 .5em;
+    margin-top: 10px;
+}
+.img-deal1 h3 {
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.img-deal1 a{
+    font-size: 18px;
+    color: #d60404;
+}
+.special-sec1:nth-child(3), .special-sec1:nth-child(5) {
+    margin: 15px 0;
+}

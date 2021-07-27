@@ -1,0 +1,46 @@
+
+.ban__top{
+    padding: 14px 0;
+}
+
+.agileits__nav__search {
+	width: 100%;
+}
+
+#agileinfo__nav__search {
+    outline: none;
+    border: none;
+    color: #000;
+    font-size: 14px;
+    background: #f3f3f3;
+	padding:15px 10px;
+	width:50%;
+	letter-spacing: 1px;
+    margin: 5px 0;
+}
+
+.custom__nav a{
+    color: #222;
+    letter-spacing: 1px;
+    font-size: 16px;
+}
+
+.custom__nav a.active, .custom__nav a:hover, .custom__nav a:focus{
+    color: #FF5722;
+}
+
+.sub__menu a:active{
+    color: #fff;
+    background:#FF5722 ;
+}
+
+.sub__menu{
+    width: 500px;
+    padding: 20px 35px;
+}
+
+.sub__menu a{
+    font-size: 15px;
+    margin: 10px 0;
+}
+
